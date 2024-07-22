@@ -1,5 +1,5 @@
 # darling
-달성달링체
+달서달링체
 
 <pre>
 @font-face {
